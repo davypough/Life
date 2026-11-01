@@ -1,0 +1,109 @@
+# Reading List
+
+*A Functional Hierarchy of Life Processes*
+
+This study is a constructive proposal about the definition of life. Chapter-specific connections are identified in the accounts of capabilities and elaborations where relevant. The study files cite these works by footnote; this list holds the full references.
+
+The following works provide points of comparison for productive organization, heredity, and minimal realizations. They are a working reading list, not evidence that the proposed hierarchy has been established.
+
+- Tibor Gánti, *The Principles of Life* (2003), Oxford University Press: the chemoton model (metabolism, membrane, and template as mutually dependent subsystems), and real (absolute) and potential life criteria.
+- Humberto Maturana and Francisco Varela, autopoiesis; Francisco Varela, Humberto Maturana, and Ricardo Uribe, "Autopoiesis: the organization of living systems, its characterization and a model" (1974), BioSystems 5.
+- Stuart Kauffman; Wim Hordijk and Mike Steel, autocatalytic sets and RAF sets.
+- Manfred Eigen and Peter Schuster, the hypercycle (1977-1979), a theoretical model of mutually catalytic replicators.
+- Manfred Eigen, "Selforganization of matter and the evolution of biological macromolecules" (1971): the error threshold.
+- John Hopfield, "Kinetic proofreading: a new mechanism for reducing errors in biosynthetic processes requiring high specificity" (1974).
+- Sudha Rajamani et al., "Effect of stalling after mismatches on the error catastrophe in nonenzymatic nucleic acid replication" (2010), and Kevin Leu et al., "Cascade of reduced speed and accuracy after errors in enzyme-free copying of nucleic acid sequences" (2013).
+- Everett Clinton Smith et al., "Coronaviruses lacking exoribonuclease activity are susceptible to lethal mutagenesis" (2013): proofreading in large RNA genomes.
+- Terrence Deacon, *Incomplete Nature* (2011), the "autogen" model of reciprocal catalysis with a self-assembling container.
+- Kepa Ruiz-Mirazo, Juli Peretó, and Alvaro Moreno, "A universal definition of life: autonomy and open-ended evolution" (2004).
+- John Maynard Smith and Eörs Szathmáry, *The Major Transitions in Evolution* (1995), including limited versus unlimited heredity.
+- Eörs Szathmáry, "The evolution of replicators" (2000), Philosophical Transactions of the Royal Society B 355: limited and unlimited heredity, modular and holistic replicators.
+- Eörs Szathmáry, "Toward major evolutionary transitions theory 2.0" (2015), Proceedings of the National Academy of Sciences 112: transitions in individuality and in inheritance systems, including language.
+- Mark Bedau, Emile Snyder, and Norman Packard, "A classification of long-term evolutionary dynamics" (1998), in C. Adami et al. (eds.), *Artificial Life VI*, MIT Press: evolutionary activity statistics; the fossil record of the biosphere shows unbounded activity, the artificial systems assessed do not (but see Channon, below).
+- Tim Taylor et al., "Open-ended evolution: perspectives from the OEE workshop in York" (2016), Artificial Life 22: exploratory, expansive, and transformational novelty.
+- Wolfgang Banzhaf et al., "Defining and simulating open-ended novelty: requirements, guidelines, and challenges" (2016), Theory in Biosciences 135.
+- Tim Taylor, "Evolutionary innovations and where to find them: routes to open-ended evolution in natural and artificial systems" (2019), Artificial Life 25: expansive and transformational novelty traced to multiple domains of behaviour, transdomain bridges, and non-additive compositional systems.
+- Kepa Ruiz-Mirazo, Jon Umerez, and Alvaro Moreno, "Enabling conditions for 'open-ended evolution'" (2008), Biology and Philosophy 23: self-constructing autonomous systems and phenotype-genotype decoupling.
+- Thomas Ray, "An approach to the synthesis of life" (1991), in C. Langton et al. (eds.), *Artificial Life II*, Addison-Wesley: Tierra.
+- Richard Lenski, Charles Ofria, Robert Pennock, and Christoph Adami, "The evolutionary origin of complex features" (2003), Nature 423: Avida.
+- Alastair Channon, "Passing the ALife test: activity statistics classify evolution in Geb as unbounded" (2001), in J. Kelemen and P. Sosík (eds.), *Advances in Artificial Life (ECAL 2001)*, Springer: the first artificial system classified as unbounded by evolutionary activity statistics, with weaknesses of the test.
+- Michael Wiser, Noah Ribeck, and Richard Lenski, "Long-term dynamics of adaptation in asexual populations" (2013), Science 342: fitness gains of Escherichia coli in a constant environment slowing without ceasing.
+- Joseph Felsenstein, "The evolutionary advantage of recombination" (1974): Muller's ratchet and the combination of variants from different lineages.
+- Michael Lynch, Reinhard Bürger, Diane Butcher, and Wilfried Gabriel, "The mutational meltdown in asexual populations" (1993), Journal of Heredity 84: Muller's ratchet driving small asexual populations to extinction.
+- Vera Vasas, Eörs Szathmáry, and Mauro Santos, "Lack of evolvability in self-sustaining autocatalytic networks" (2010).
+- Eörs Szathmáry and László Demeter, "Group selection of early replicators and the origin of life" (1987), the stochastic corrector: compartments keep cooperating replicators together and lineages apart.
+- Carl Woese, "On the evolution of cells" (2002), the Darwinian threshold at which vertical transmission comes to outweigh horizontal exchange.
+- Eugene Koonin and William Martin, "On the origin of genomes and cells within inorganic compartments" (2005), lineages arising in a field of mineral pores before free-living cells.
+- Vera Vasas, Chrisantha Fernando, Mauro Santos, Stuart Kauffman, and Eörs Szathmáry, "Evolution before genes" (2012), reproduction and evolvability of compartmentalized autocatalytic networks.
+- Yann Mercier, Yoshikazu Kawai, and Jeff Errington, "Excess membrane synthesis drives a primitive mode of cell proliferation" (2013): bacterial L-forms dividing without division machinery.
+- Ting Zhu and Jack Szostak, "Coupled growth and division of model protocell membranes" (2009).
+- Ling Juan Wu et al., "Geometric principles underlying the proliferation of a model cell system" (2020): L-form chromosome segregation improved by confinement in narrow channels.
+- John Maynard Smith and Eörs Szathmáry, "The origin of chromosomes I. Selection for linkage" (1993): linking replicators into one molecule reduces the loss of incomplete compartments under random assortment.
+- Jamie Baxter and Barbara Funnell, "Plasmid partition mechanisms" (2014): partition machinery in low-copy plasmids.
+- Sattar Taheri-Araghi et al., "Cell-size control and homeostasis in bacteria" (2015): the "adder", growth regulated on average across generations.
+- Maarten Boerlijst and Paulien Hogeweg, "Spiral wave structure in pre-biotic evolution" (1991), and John Pearson, "Complex patterns in a simple system" (1993): units distinguished and multiplied by reaction and diffusion alone, without boundaries.
+- David Queller and Joan Strassmann, "Beyond society: the evolution of organismality" (2009), and Ellen Clarke, "The problem of biological individuality" (2010): individuality as a matter of degree.
+- Peter Godfrey-Smith, *Darwinian Populations and Natural Selection* (2009): paradigm and marginal reproducers, reproduction as a matter of degree.
+- Samir Okasha, *Evolution and the Levels of Selection* (2006): levels of selection as organizations; multilevel selection counted in members' fitness or in collective offspring.
+- Tracey Lincoln and Gerald Joyce, "Self-sustained replication of an RNA enzyme" (2009), a laboratory pair of RNA enzymes that each produce the other.
+- Clyde Hutchison et al., "Design and synthesis of a minimal bacterial genome" (2016), JCVI-syn3.0.
+- Ferran Garcia-Pichel and Richard Castenholz, "Characterization and biological implications of scytonemin, a cyanobacterial sheath pigment" (1991), Journal of Phycology 27: UV-absorbing sheath pigment induced by UV-A.
+- J. Malcolm Shick and Walter Dunlap, "Mycosporine-like amino acids and related gadusols: biosynthesis, accumulation, and UV-protective functions in aquatic organisms" (2002), Annual Review of Physiology 64.
+- Margit Sára and Uwe Sleytr, "S-layer proteins" (2000), Journal of Bacteriology 182.
+- Peter Setlow, "Spores of Bacillus subtilis: their resistance to and killing by radiation, heat and chemicals" (2006), Journal of Applied Microbiology 101.
+- James Imlay, "The molecular mechanisms and physiological consequences of oxidative stress: lessons from a model bacterium" (2013), Nature Reviews Microbiology 11: hydrogen peroxide formed by the cell's own enzymes.
+- J. Jeffrey Morris, Richard Lenski, and Erik Zinser, "The Black Queen Hypothesis: evolution of dependencies through adaptive gene loss" (2012), mBio 3: Prochlorococcus relying on neighbors to remove hydrogen peroxide.
+- Dijun Du et al., "Multidrug efflux pumps: structure, function and regulation" (2018), Nature Reviews Microbiology 16.
+- Hans-Curt Flemming and Jost Wingender, "The biofilm matrix" (2010), Nature Reviews Microbiology 8.
+- Carole Linster, Emile Van Schaftingen, and Andrew Hanson, "Metabolite damage and its repair or pre-emption" (2013), Nature Chemical Biology 9.
+- Patricia Wright, "Nitrogen excretion: three end products, many physiological roles" (1995), Journal of Experimental Biology 198.
+- Ariel Lindner et al., "Asymmetric segregation of protein aggregates is associated with cellular aging and rejuvenation" (2008), PNAS 105.
+
+- David Keilin, "The Leeuwenhoek Lecture: The problem of anabiosis or latent life: history and current concept" (1959), Proceedings of the Royal Society of London B 150: introduces cryptobiosis, metabolism hardly measurable or reversibly at a standstill.
+- Thomas Boothby et al., "Tardigrades use intrinsically disordered proteins to survive desiccation" (2017), Molecular Cell 65.
+- Jerry Baskin and Carol Baskin, "A classification system for seed dormancy" (2004), Seed Science Research 14.
+- Nathalie Balaban et al., "Bacterial persistence as a phenotypic switch" (2004), Science 305.
+- Dan Cohen, "Optimizing reproduction in a randomly varying environment" (1966), Journal of Theoretical Biology 12: germination spread across years as bet-hedging.
+- Jay Lennon and Stuart Jones, "Microbial seed banks: the ecological and evolutionary implications of dormancy" (2011), Nature Reviews Microbiology 9: dormancy as any reversible state of low metabolic activity.
+- Ashleigh Griffin, Stuart West, and Angus Buckling, "Cooperation and competition in pathogenic bacteria" (2004), Nature 430: siderophores as shared means exploited by non-producers.
+- John Odling-Smee, Kevin Laland, and Marcus Feldman, *Niche Construction: The Neglected Process in Evolution* (2003): modified surroundings inherited by offspring.
+- Paul Rainey and Benjamin Kerr, "Cheats as first propagules: a new hypothesis for the evolution of individuality during the transition from single cells to multicellularity" (2010), BioEssays 32.
+- Joan Strassmann, Yong Zhu, and David Queller, "Altruism and social cheating in the social amoeba Dictyostelium discoideum" (2000), Nature 408.
+- Anna Singer et al., "Massive protein import into the early-evolutionary-stage photosynthetic organelle of the amoeba Paulinella chromatophora" (2017), Current Biology 27.
+- John McCutcheon and Nancy Moran, "Extreme genome reduction in symbiotic bacteria" (2012), Nature Reviews Microbiology 10.
+- Patrick Keeling and John Archibald, "Organelle evolution: what's in a name?" (2008), Current Biology 18: protein import as the mark of an organelle.
+- James Lovelock and Lynn Margulis, "Atmospheric homeostasis by and for the biosphere: the Gaia hypothesis" (1974), Tellus 26.
+- W. Ford Doolittle, "Making evolutionary sense of Gaia" (2019), Trends in Ecology and Evolution 34.
+- John Dupré and Maureen O'Malley, "Varieties of living things: life at the intersection of lineage and metabolism" (2009), Philosophy and Theory in Biology 1.
+- Elizabeth Murchison et al., "Transmissible dog cancer genome reveals the origin and history of an ancient cell lineage" (2014), Science 343.
+- Peter Mitchell, "Coupling of phosphorylation to electron and hydrogen transfer by a chemi-osmotic type of mechanism" (1961), Nature 191.
+- Nick Lane and William Martin, "The origin of membrane bioenergetics" (2012), Cell 151: natural proton gradients across mineral walls at alkaline hydrothermal vents.
+- Anastasios Tsaousis et al., "A novel route for ATP acquisition by the remnant mitochondria of Encephalitozoon cuniculi" (2008), Nature 453: microsporidia importing host ATP.
+- Laszlo Csonka, "Physiological and genetic responses of bacteria to osmotic stress" (1989), Microbiological Reviews 53: compatible solutes (osmoprotectants), made or taken up.
+- Michael Sinensky, "Homeoviscous adaptation: a homeostatic process that regulates the viscosity of membrane lipids in Escherichia coli" (1974), PNAS 71.
+- Pablo Aguilar et al., "Molecular basis of thermosensing: a two-component signal transduction thermometer in Bacillus subtilis" (2001), EMBO Journal 20: DesK sensing the membrane's own state.
+- Bradford Lowell and Bruce Spiegelman, "Towards a molecular understanding of adaptive thermogenesis" (2000), Nature 404.
+- Roger Seymour and Paul Schultze-Motel, "Thermoregulating lotus flowers" (1996), Nature 383.
+- Francis Carey, "A brain heater in the swordfish" (1982), Science 216.
+- Guillaume Baffou, Hervé Rigneault, Didier Marguet, and Ludovic Jullien, "A critique of methods for temperature imaging in single cells" (2014), Nature Methods 11: a cell's metabolism cannot measurably raise its own temperature.
+- Paul Yancey et al., "Marine fish may be biochemically constrained from inhabiting the deepest ocean depths" (2014), PNAS 111: trimethylamine N-oxide stabilizing proteins against pressure.
+- Anurag Agrawal, Christian Laforsch, and Ralph Tollrian, "Transgenerational induction of defences in animals and plants" (1999), Nature 401.
+- Rodolphe Barrangou et al., "CRISPR provides acquired resistance against viruses in prokaryotes" (2007), Science 315.
+- Christopher Waters and Bonnie Bassler, "Quorum sensing: cell-to-cell communication in bacteria" (2005), Annual Review of Cell and Developmental Biology 21.
+- Anna Lopatina, Nitzan Tal, and Rotem Sorek, "Abortive infection: bacterial suicide as an antiviral immune strategy" (2020), Annual Review of Virology 7.
+- Rodrigo Galhardo, P. J. Hastings, and Susan Rosenberg, "Mutation as a stress response and the regulation of evolvability" (2007), Critical Reviews in Biochemistry and Molecular Biology 42.
+- Eva Jablonka and Gal Raz, "Transgenerational epigenetic inheritance: prevalence, mechanisms, and implications for the study of heredity and evolution" (2009), Quarterly Review of Biology 84.
+- Robert Boyd and Peter Richerson, *Culture and the Evolutionary Process* (1985): culture as a second inheritance system (dual inheritance theory).
+- Jiali Li, Shawn Browning, Sukhvir Mahal, Anja Oelschlegel, and Charles Weissmann, "Darwinian evolution of prions in cell culture" (2010), Science 327: prion strains propagated and selected without regeneration.
+- John Drake, "A constant rate of spontaneous mutation in DNA-based microbes" (1991), PNAS 88: mutations per genome roughly constant as genome size varies.
+- Amir Saberi et al., "A planarian nidovirus expands the limits of RNA genome size" (2018), PLoS Pathogens 14: RNA genomes beyond about 20 kb only with a proofreading exonuclease.
+- James Pelletier et al., "Genetic requirements for cell division in a genomically minimal cell" (2021), Cell 184: JCVI-syn3.0 dividing irregularly, regular division restored by seven genes.
+- William Whitman, David Coleman, and William Wiebe, "Prokaryotes: the unseen majority" (1998), PNAS 95: roughly 10^30 prokaryotes on Earth.
+- Eduard Buchner, "Alkoholische Gährung ohne Hefezellen" (1897), Berichte der Deutschen Chemischen Gesellschaft 30: fermentation by cell-free yeast extract.
+- John Gerhart and Arthur Pardee, "The enzymology of control by feedback inhibition" (1962), Journal of Biological Chemistry 237: feedback inhibition of a purified enzyme.
+- Jin Tang and Ronald Breaker, "Rational design of allosteric ribozymes" (1997), Chemistry & Biology 4: RNA enzymes switched by a bound ligand.
+- Gerald Joyce, foreword to David Deamer and Gail Fleischaker (eds.), *Origins of Life: The Central Concepts* (1994), Jones and Bartlett: the NASA working definition of life, "a self-sustaining chemical system capable of Darwinian evolution".
+- Ronald Breslow, "On the mechanism of the formose reaction" (1959), Tetrahedron Letters 1: autocatalysis by glycolaldehyde.
+- Pier Andrea Bachmann, Pier Luigi Luisi, and Jacques Lang, "Autocatalytic self-replicating micelles as models for prebiotic structures" (1992), Nature 357.
+- Maël Montévil and Matteo Mossio, "Biological organisation as closure of constraints" (2015), Journal of Theoretical Biology 372: constraints conserved at the time scale of the processes they act on.
+- Carol Cleland, "Life without definitions" (2012), Synthese 185: definitions versus theories of life.
