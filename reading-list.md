@@ -107,3 +107,10 @@ The following works provide points of comparison for productive organization, he
 - Pier Andrea Bachmann, Pier Luigi Luisi, and Jacques Lang, "Autocatalytic self-replicating micelles as models for prebiotic structures" (1992), Nature 357.
 - Maël Montévil and Matteo Mossio, "Biological organisation as closure of constraints" (2015), Journal of Theoretical Biology 372: constraints conserved at the time scale of the processes they act on.
 - Carol Cleland, "Life without definitions" (2012), Synthese 185: definitions versus theories of life.
+- Mary Weiss, Filipa Sousa, Natalia Mrnjavac, Sinje Neukirchen, Mayo Roettger, Shijulal Nelson-Sathi, and William Martin, "The physiology and habitat of the last universal common ancestor" (2016), Nature Microbiology 1: 355 protein families with little sign of transfer; an anaerobic, hydrogen-dependent LUCA fixing carbon by the Wood–Ljungdahl pathway.
+- Edmund Moody et al., "The nature of the last universal common ancestor and its impact on the early Earth system" (2024), Nature Ecology & Evolution 8: LUCA about 4.2 billion years ago, about 2,600 proteins, acetogenic, with CRISPR-Cas, in an ecosystem.
+- Jonathan Lombard, Purificación López-García, and David Moreira, "The early evolution of lipid membranes and the three domains of life" (2012), Nature Reviews Microbiology 10: the lipid divide and LUCA's membrane.
+- Víctor Sojo, Andrew Pomiankowski, and Nick Lane, "A bioenergetic basis for membrane divergence in archaea and bacteria" (2014), PLoS Biology 12: a membrane leaky to protons relying on natural gradients.
+- Detlef Leipe, L. Aravind, and Eugene Koonin, "Did DNA replication evolve twice independently?" (1999), Nucleic Acids Research 27.
+- Bastien Boussau, Samuel Blanquart, Anamaria Necsulea, Nicolas Lartillot, and Manolo Gouy, "Parallel adaptations to high temperatures in the Archaean eon" (2008), Nature 456: a mesophilic LUCA.
+- Carl Woese, "The universal ancestor" (1998), PNAS 95: the universal ancestor as a community of cells exchanging genes.
