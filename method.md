@@ -37,7 +37,7 @@ This file develops the study's method: its approach, environmental assumptions, 
 
 - In developed systems, base capabilities and elaborations may be tightly integrated and mutually supporting.
 - Considering simpler realizations helps distinguish prerequisites of a base capability or elaboration from features of a particular implementation.
-- Minimal realizations must state their environmental assumptions. There need not be one uniquely simplest realization across all environments.
+- Minimal realizations must state their environmental assumptions. There need not be a unique minimal realization, across environments or within one: minimal means having no part the base capability or elaboration does not need, not having the fewest parts.
 - A base capability or elaboration counts as the system's own contribution only when the system produces and renews the relevant means. A condition met by the environment must be recorded as an environmental contribution.
 
 ### Stating environmental assumptions
