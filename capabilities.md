@@ -104,16 +104,16 @@ Copying is always imperfect; heredity needs transmission reliable enough for a l
 
 1. Does open-ended evolution need more heritable information than the selectivity of copying sustains, and so error correction? Is a template physically necessary for unlimited heredity? Closed: open-ended evolution needs heritable information that can be added to, and so error correction once that information exceeds about one over the copying step's error rate per unit, a conditional physical relation (Elaborations, *Extended endpoint: open-ended evolution*). A template is not established as physically necessary for unlimited heredity; every known case uses modular inheritance (see *Heredity*, *Prerequisites*).
 
-[^mercier2013]: Mercier, Kawai, and Errington (2013); see sources/reading-list.md.
+[^mercier2013]: Mercier, Kawai, and Errington (2013); see reading-list.md.
 
-[^pearson1993]: Pearson (1993); see sources/reading-list.md.
+[^pearson1993]: Pearson (1993); see reading-list.md.
 
-[^vasas2012]: Vasas et al. (2012); see sources/reading-list.md.
+[^vasas2012]: Vasas et al. (2012); see reading-list.md.
 
-[^kooninmartin2005]: Koonin and Martin (2005); see sources/reading-list.md.
+[^kooninmartin2005]: Koonin and Martin (2005); see reading-list.md.
 
-[^whitman1998]: Whitman, Coleman, and Wiebe (1998); see sources/reading-list.md.
+[^whitman1998]: Whitman, Coleman, and Wiebe (1998); see reading-list.md.
 
-[^vasas2010]: Vasas, Szathmáry, and Santos (2010); see sources/reading-list.md.
+[^vasas2010]: Vasas, Szathmáry, and Santos (2010); see reading-list.md.
 
-[^szathmary2000]: Szathmáry (2000); see sources/reading-list.md.
+[^szathmary2000]: Szathmáry (2000); see reading-list.md.

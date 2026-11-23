@@ -67,7 +67,7 @@ If LUCA was thermophilic, the study classes its tolerance of heat as a change in
 
 ## After LUCA: elaborations and mechanisms
 
-Life's Future proposes that novelty is mostly new mechanisms, specialized applications, and combinations rather than new elaborations (Life's Future, *Few new elaborations, many new mechanisms*). LUCA offers a partial test. If the reconstructions are right, most elaborations were present at LUCA, and later evolution added mechanisms for them: new membranes, photosynthetic reaction centers, new protective pigments, motility, and partition machinery. The clear exception is heat gain, which needs large bodies and so arose only in multicellular lineages long after. Dormancy, as in spores, may be another. New collective individuals, the major transitions after LUCA, are recursion, not new levels (Basis, *Levels and organizations*).
+Life's Future proposes that novelty is mostly new mechanisms, specialized applications, and combinations rather than new elaborations (Life's Future, *Few new elaborations, many new mechanisms*). LUCA offers a partial test. If the reconstructions are right, most elaborations were present at LUCA, and later evolution added mechanisms for them: new membranes, photosynthetic reaction centers, new protective pigments, motility, and partition machinery. The clear exception is heat gain, which needs large bodies and so arose only in multicellular lineages long after. Dormancy, as in spores, may be another. New collective organisms, the major transitions after LUCA, are recursion, not new levels (Basis, *Levels and organizations*).
 
 ## What the comparison cannot show
 
@@ -80,18 +80,18 @@ Conversely, the study cannot date or order LUCA's features. Its dependencies con
 1. Was the Darwinian threshold crossed before LUCA, so that LUCA is a lineage in the study's sense, or near it, so that its status is indeterminate? This is an empirical question about the balance of vertical and horizontal transmission, which the study's threshold makes precise but cannot settle.
 2. Do reconstructions of LUCA include error correction sufficient for the genome size they infer? Agreement would illustrate a conditional physical relation; a large genome reconstructed without correction would call for reassessing either the reconstruction or the relation.
 
-[^weiss2016]: Weiss et al. (2016); see sources/reading-list.md.
+[^weiss2016]: Weiss et al. (2016); see reading-list.md.
 
-[^moody2024]: Moody et al. (2024); see sources/reading-list.md.
+[^moody2024]: Moody et al. (2024); see reading-list.md.
 
-[^lombard2012]: Lombard, López-García, and Moreira (2012); see sources/reading-list.md.
+[^lombard2012]: Lombard, López-García, and Moreira (2012); see reading-list.md.
 
-[^sojo2014]: Sojo, Pomiankowski, and Lane (2014); see sources/reading-list.md.
+[^sojo2014]: Sojo, Pomiankowski, and Lane (2014); see reading-list.md.
 
-[^leipe1999]: Leipe, Aravind, and Koonin (1999); see sources/reading-list.md.
+[^leipe1999]: Leipe, Aravind, and Koonin (1999); see reading-list.md.
 
-[^boussau2008]: Boussau et al. (2008); see sources/reading-list.md.
+[^boussau2008]: Boussau et al. (2008); see reading-list.md.
 
-[^woese1998]: Woese (1998); see sources/reading-list.md.
+[^woese1998]: Woese (1998); see reading-list.md.
 
-[^woese2002]: Woese (2002); see sources/reading-list.md.
+[^woese2002]: Woese (2002); see reading-list.md.

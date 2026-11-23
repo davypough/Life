@@ -39,7 +39,7 @@ Each base capability defines one level of continuation (see Basis, *Three levels
 ### Heredity
 
 - **Depends on reproduction:** transmission across generations presupposes generations.
-- **Strictness:** reproduction can occur without heredity. New systems may resemble their parent only in being living systems, as when fragments of different composition separate at random. No living system of this sort is known, but model compositional networks whose offspring carry their parent's composition only weakly come close,[^vasas2010] as do biofilms that shed single cells, whose new mats carry collective variants only weakly (Basis, *Graded and nested living systems*).
+- **Strictness:** reproduction can occur without heredity. New systems may resemble their parent only in being living systems. A plain A/B network in the pore field, regenerating only A and B, founds offspring that resemble every other network alike; any variants its side reactions make are not regenerated, so none is carried forward (Base Capabilities, *Reproduction*; Basis, *Organisms*). Fragments of different composition separating at random are another case. No living system of this sort is known, but model compositional networks whose offspring carry their parent's composition only weakly come close,[^vasas2010] as do biofilms that shed single cells, whose new mats carry collective variants only weakly (Basis, *Graded and nested living systems*).
 - **Variation:** no separate base capability or elaboration is needed. Imperfect transmission supplies variation in any physical system, so even clonal lineages vary (see the environment view, *Heredity*). Heredity without any variation is an idealization that cannot occur.
 
 ## What this view leaves out, and why
@@ -50,11 +50,11 @@ Each base capability defines one level of continuation (see Basis, *Three levels
 - **Recombination.** It depends on heredity, while heredity occurs without it, so it is an elaboration of heredity rather than a base capability (see Elaborations, *Recombination*).
 - **Unlimited heredity.** This is a specialization of heredity, not a separate elaboration that depends on it.
 - **Open-ended evolution.** An outcome, not a base capability or elaboration (see Basis, *Three levels of continuation for living systems*). Its conditions are stated as necessary for or net beneficial to it, not as dependencies (Method, *Dependency criterion*; Elaborations, *Extended endpoint: open-ended evolution*).
-- **Further levels.** A collective individual is this chain applied to a collective's organization, a community of lineages adds no continuant beyond a thin living system, and culture and directed variation are a means of inheritance, the evolvability of components, or existing elaborations, so none adds a base capability (Basis, *Levels and organizations*).
+- **Further levels.** Collective organisms belong to this chain applied to a collective's organization, a community of lineages adds no continuant beyond a thin living system, and culture and directed variation are a means of inheritance, the evolvability of components, or existing elaborations, so none adds a base capability (Basis, *Levels and organizations*).
 
 ## What the view claims and does not claim
 
-- It constrains order without determining history: in any lineage, heredity cannot appear before reproduction, nor reproduction before regeneration, although they may appear together.
+- It constrains order without determining history: in any lineage, heredity cannot appear before reproduction, nor reproduction before regeneration, although they may appear together, as in Gánti's chemoton, a model cell with a self-sustaining cycle, a dividing membrane, and a copied template.[^ganti2003]
 - Dependencies run in one direction only. Being alive depends only on regeneration; reproduction and heredity are further base capabilities, not conditions imposed on every living individual.
 - It says nothing about which elaborations a system has, or in what order they arise. That depends on the environment and belongs to other views.
 
@@ -64,4 +64,6 @@ None at present. What open-ended evolution needs, and how the conditions of an o
 
 The sufficiency of organizational regeneration as a criterion for life is in Basis, *Sufficiency of the criterion*; how sharply systems must be separated is set out in the Glossary, *Organizational separation*.
 
-[^vasas2010]: Vasas, Szathmáry, and Santos (2010); see sources/reading-list.md.
+[^vasas2010]: Vasas, Szathmáry, and Santos (2010); see reading-list.md.
+
+[^ganti2003]: Gánti (2003); see reading-list.md.

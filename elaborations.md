@@ -449,7 +449,7 @@ Several candidates arise only in collectives: division of labor, differentiation
 
 ## Extended endpoint: open-ended evolution
 
-The study examines elaborations that support regeneration under different conditions, reproduction across systems, and heredity across generations. Open-ended evolution is a possible extended endpoint: an outcome, judged by continued production of new heritable mechanisms (Glossary, *Open-ended evolution*), not a base capability or elaboration. In the terms of the literature, the criterion asks for expansive novelty; new variants of existing mechanisms alone, exploratory novelty, do not meet it, and new collective individuals, which the literature calls new levels, give transformational novelty.[^taylor2016][^banzhaf2016] This section is the study's one home for the conditions of open-ended evolution. They concern evolving lineages and are not imposed on every living individual.
+The study examines elaborations that support regeneration under different conditions, reproduction across systems, and heredity across generations. Open-ended evolution is a possible extended endpoint: an outcome, judged by continued production of new heritable mechanisms (Glossary, *Open-ended evolution*), not a base capability or elaboration. In the terms of the literature, the criterion asks for expansive novelty; new variants of existing mechanisms alone, exploratory novelty, do not meet it, and new collective organisms, which the literature calls new levels, give transformational novelty.[^taylor2016][^banzhaf2016] This section is the study's one home for the conditions of open-ended evolution. They concern evolving lineages and are not imposed on every living individual.
 
 Because an outcome is graded over an interval, its conditions are stated as necessary for or net beneficial to it, for a stated environment and interval, each with its ground and scope, rather than as dependencies (Method, *Dependency criterion*).
 
@@ -466,7 +466,7 @@ Because an outcome is graded over an interval, its conditions are stated as nece
 - **Recombination:** combining variants that arose in separate lineages, including new mechanisms passing between lineages by horizontal transfer, raises the rate of novelty (*Recombination*).
 - **Raised variation rates:** a produced means raising variation can raise the rate of novelty where environments change, as mutator strains spread under stress, but variation must stay below the error threshold. It is never necessary, since the imperfection inherent in transmission always supplies new variants (*Candidates assessed*).
 - **Dormant stages carrying variants:** stores of variants from earlier times slow their loss through failure of carrier systems (*Dormancy*; environment view, *Heredity*).
-- **Collective heredity:** new collective individuals, which reproduce and carry collective variants, give new continuants, the strongest novelty, and widen the range of mechanisms, since members compose collective mechanisms; they apply the dependency chain to a collective's organization rather than adding a level (Basis, *Graded and nested living systems* and *Levels and organizations*). Cultural novelty counts toward the criterion only where culture is collective heredity; otherwise it is the evolvability of components, which can supply the changing environment below. The criterion does not require them.
+- **Collective heredity:** new lineages of collective organisms, which reproduce and carry collective variants, give new continuants, the strongest novelty, and widen the range of mechanisms, since members compose collective mechanisms; they apply the dependency chain to a collective's organization rather than adding a level (Basis, *Graded and nested living systems* and *Levels and organizations*). Cultural novelty counts toward the criterion only where culture is collective heredity; otherwise it is the evolvability of components, which can supply the changing environment below. The criterion does not require them.
 
 **The environment's share**
 
@@ -492,124 +492,124 @@ What these conditions imply for life's future, with the other patterns the frame
 
 The sufficiency of the proposed criterion for life is in Basis, *Sufficiency of the criterion*, and questions about the method in Method, *Questions for developing the method*. The reading list is maintained separately.
 
-[^maynardsmith1993]: Maynard Smith and Szathmáry (1993); see sources/reading-list.md.
+[^maynardsmith1993]: Maynard Smith and Szathmáry (1993); see reading-list.md.
 
-[^zhu2009]: Zhu and Szostak (2009); see sources/reading-list.md.
+[^zhu2009]: Zhu and Szostak (2009); see reading-list.md.
 
-[^szathmary1987]: Szathmáry and Demeter (1987); see sources/reading-list.md.
+[^szathmary1987]: Szathmáry and Demeter (1987); see reading-list.md.
 
-[^wu2020]: Wu et al. (2020); see sources/reading-list.md.
+[^wu2020]: Wu et al. (2020); see reading-list.md.
 
-[^taheriaraghi2015]: Taheri-Araghi et al. (2015); see sources/reading-list.md.
+[^taheriaraghi2015]: Taheri-Araghi et al. (2015); see reading-list.md.
 
-[^rajamani2010]: Rajamani et al. (2010); see sources/reading-list.md.
+[^rajamani2010]: Rajamani et al. (2010); see reading-list.md.
 
-[^leu2013]: Leu et al. (2013); see sources/reading-list.md.
+[^leu2013]: Leu et al. (2013); see reading-list.md.
 
-[^lincoln2009]: Lincoln and Joyce (2009); see sources/reading-list.md.
+[^lincoln2009]: Lincoln and Joyce (2009); see reading-list.md.
 
-[^hopfield1974]: Hopfield (1974); see sources/reading-list.md.
+[^hopfield1974]: Hopfield (1974); see reading-list.md.
 
-[^smith2013]: Smith et al. (2013); see sources/reading-list.md.
+[^smith2013]: Smith et al. (2013); see reading-list.md.
 
-[^felsenstein1974]: Felsenstein (1974); see sources/reading-list.md.
+[^felsenstein1974]: Felsenstein (1974); see reading-list.md.
 
-[^lynch1993]: Lynch et al. (1993); see sources/reading-list.md.
+[^lynch1993]: Lynch et al. (1993); see reading-list.md.
 
-[^garciapichel1991]: Garcia-Pichel and Castenholz (1991); see sources/reading-list.md.
+[^garciapichel1991]: Garcia-Pichel and Castenholz (1991); see reading-list.md.
 
-[^shick2002]: Shick and Dunlap (2002); see sources/reading-list.md.
+[^shick2002]: Shick and Dunlap (2002); see reading-list.md.
 
-[^sara2000]: Sára and Sleytr (2000); see sources/reading-list.md.
+[^sara2000]: Sára and Sleytr (2000); see reading-list.md.
 
-[^setlow2006]: Setlow (2006); see sources/reading-list.md.
+[^setlow2006]: Setlow (2006); see reading-list.md.
 
-[^morris2012]: Morris, Lenski, and Zinser (2012); see sources/reading-list.md.
+[^morris2012]: Morris, Lenski, and Zinser (2012); see reading-list.md.
 
-[^du2018]: Du et al. (2018); see sources/reading-list.md.
+[^du2018]: Du et al. (2018); see reading-list.md.
 
-[^flemming2010]: Flemming and Wingender (2010); see sources/reading-list.md.
+[^flemming2010]: Flemming and Wingender (2010); see reading-list.md.
 
-[^linster2013]: Linster, Van Schaftingen, and Hanson (2013); see sources/reading-list.md.
+[^linster2013]: Linster, Van Schaftingen, and Hanson (2013); see reading-list.md.
 
-[^imlay2013]: Imlay (2013); see sources/reading-list.md.
+[^imlay2013]: Imlay (2013); see reading-list.md.
 
-[^wright1995]: Wright (1995); see sources/reading-list.md.
+[^wright1995]: Wright (1995); see reading-list.md.
 
-[^lindner2008]: Lindner et al. (2008); see sources/reading-list.md.
+[^lindner2008]: Lindner et al. (2008); see reading-list.md.
 
-[^boothby2017]: Boothby et al. (2017); see sources/reading-list.md.
+[^boothby2017]: Boothby et al. (2017); see reading-list.md.
 
-[^keilin1959]: Keilin (1959); see sources/reading-list.md.
+[^keilin1959]: Keilin (1959); see reading-list.md.
 
-[^baskin2004]: Baskin and Baskin (2004); see sources/reading-list.md.
+[^baskin2004]: Baskin and Baskin (2004); see reading-list.md.
 
-[^balaban2004]: Balaban et al. (2004); see sources/reading-list.md.
+[^balaban2004]: Balaban et al. (2004); see reading-list.md.
 
-[^lennon2011]: Lennon and Jones (2011); see sources/reading-list.md.
+[^lennon2011]: Lennon and Jones (2011); see reading-list.md.
 
-[^cohen1966]: Cohen (1966); see sources/reading-list.md.
+[^cohen1966]: Cohen (1966); see reading-list.md.
 
-[^mitchell1961]: Mitchell (1961); see sources/reading-list.md.
+[^mitchell1961]: Mitchell (1961); see reading-list.md.
 
-[^tsaousis2008]: Tsaousis et al. (2008); see sources/reading-list.md.
+[^tsaousis2008]: Tsaousis et al. (2008); see reading-list.md.
 
-[^pearson1993]: Pearson (1993); see sources/reading-list.md.
+[^pearson1993]: Pearson (1993); see reading-list.md.
 
-[^boerlijst1991]: Boerlijst and Hogeweg (1991); see sources/reading-list.md.
+[^boerlijst1991]: Boerlijst and Hogeweg (1991); see reading-list.md.
 
-[^csonka1989]: Csonka (1989); see sources/reading-list.md.
+[^csonka1989]: Csonka (1989); see reading-list.md.
 
-[^sinensky1974]: Sinensky (1974); see sources/reading-list.md.
+[^sinensky1974]: Sinensky (1974); see reading-list.md.
 
-[^aguilar2001]: Aguilar et al. (2001); see sources/reading-list.md.
+[^aguilar2001]: Aguilar et al. (2001); see reading-list.md.
 
-[^lowell2000]: Lowell and Spiegelman (2000); see sources/reading-list.md.
+[^lowell2000]: Lowell and Spiegelman (2000); see reading-list.md.
 
-[^seymour1996]: Seymour and Schultze-Motel (1996); see sources/reading-list.md.
+[^seymour1996]: Seymour and Schultze-Motel (1996); see reading-list.md.
 
-[^carey1982]: Carey (1982); see sources/reading-list.md.
+[^carey1982]: Carey (1982); see reading-list.md.
 
-[^baffou2014]: Baffou et al. (2014); see sources/reading-list.md.
+[^baffou2014]: Baffou et al. (2014); see reading-list.md.
 
-[^yancey2014]: Yancey et al. (2014); see sources/reading-list.md.
+[^yancey2014]: Yancey et al. (2014); see reading-list.md.
 
-[^agrawal1999]: Agrawal, Laforsch, and Tollrian (1999); see sources/reading-list.md.
+[^agrawal1999]: Agrawal, Laforsch, and Tollrian (1999); see reading-list.md.
 
-[^barrangou2007]: Barrangou et al. (2007); see sources/reading-list.md.
+[^barrangou2007]: Barrangou et al. (2007); see reading-list.md.
 
-[^waters2005]: Waters and Bassler (2005); see sources/reading-list.md.
+[^waters2005]: Waters and Bassler (2005); see reading-list.md.
 
-[^lopatina2020]: Lopatina, Tal, and Sorek (2020); see sources/reading-list.md.
+[^lopatina2020]: Lopatina, Tal, and Sorek (2020); see reading-list.md.
 
-[^galhardo2007]: Galhardo, Hastings, and Rosenberg (2007); see sources/reading-list.md.
+[^galhardo2007]: Galhardo, Hastings, and Rosenberg (2007); see reading-list.md.
 
-[^jablonka2009]: Jablonka and Raz (2009); see sources/reading-list.md.
+[^jablonka2009]: Jablonka and Raz (2009); see reading-list.md.
 
-[^drake1991]: Drake (1991); see sources/reading-list.md.
+[^drake1991]: Drake (1991); see reading-list.md.
 
-[^saberi2018]: Saberi et al. (2018); see sources/reading-list.md.
+[^saberi2018]: Saberi et al. (2018); see reading-list.md.
 
-[^hutchison2016]: Hutchison et al. (2016); see sources/reading-list.md.
+[^hutchison2016]: Hutchison et al. (2016); see reading-list.md.
 
-[^pelletier2021]: Pelletier et al. (2021); see sources/reading-list.md.
+[^pelletier2021]: Pelletier et al. (2021); see reading-list.md.
 
-[^taylor2016]: Taylor et al. (2016); see sources/reading-list.md.
+[^taylor2016]: Taylor et al. (2016); see reading-list.md.
 
-[^banzhaf2016]: Banzhaf et al. (2016); see sources/reading-list.md.
+[^banzhaf2016]: Banzhaf et al. (2016); see reading-list.md.
 
-[^bedau1998]: Bedau, Snyder, and Packard (1998); see sources/reading-list.md.
+[^bedau1998]: Bedau, Snyder, and Packard (1998); see reading-list.md.
 
-[^wiser2013]: Wiser, Ribeck, and Lenski (2013); see sources/reading-list.md.
+[^wiser2013]: Wiser, Ribeck, and Lenski (2013); see reading-list.md.
 
-[^mccutcheon2012]: McCutcheon and Moran (2012); see sources/reading-list.md.
+[^mccutcheon2012]: McCutcheon and Moran (2012); see reading-list.md.
 
-[^ray1991]: Ray (1991); see sources/reading-list.md.
+[^ray1991]: Ray (1991); see reading-list.md.
 
-[^lenski2003]: Lenski et al. (2003); see sources/reading-list.md.
+[^lenski2003]: Lenski et al. (2003); see reading-list.md.
 
-[^channon2001]: Channon (2001); see sources/reading-list.md.
+[^channon2001]: Channon (2001); see reading-list.md.
 
-[^taylor2019]: Taylor (2019); see sources/reading-list.md.
+[^taylor2019]: Taylor (2019); see reading-list.md.
 
-[^ruizmirazo2008]: Ruiz-Mirazo, Umerez, and Moreno (2008); see sources/reading-list.md.
+[^ruizmirazo2008]: Ruiz-Mirazo, Umerez, and Moreno (2008); see reading-list.md.

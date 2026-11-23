@@ -140,16 +140,16 @@ A present-day cell, such as a bacterium, provides the developed examples. Its ba
 1. Grain: if two candidate elaborations cannot be provided by separate mechanisms in any realization, should they be combined? If one is provided by unrelated mechanisms across many realizations, does that confirm it as a distinct contribution? Closed: both are evidence for the grain test, not tests. Provision never by separate mechanisms can arise only where the takeover test already joins two contributions, and provision by unrelated mechanisms shows that an entry is identified by its contribution, not that it is distinct from others (Method, *Identifying and naming base capabilities and elaborations*).
 2. When a coupling between mechanisms recurs in every known realization, what would turn it into a physical dependency between elaborations? Closed: a physical argument that one contribution cannot be made without the other, with every proposed dissociation failing on physical grounds; co-occurrence alone never suffices (Method, *Checks against biology*). Current couplings are recorded in *Observations*.
 
-[^kauffman]: Kauffman, autocatalytic sets; see sources/reading-list.md.
+[^kauffman]: Kauffman, autocatalytic sets; see reading-list.md.
 
-[^hordijk]: Hordijk and Steel, RAF sets; see sources/reading-list.md.
+[^hordijk]: Hordijk and Steel, RAF sets; see reading-list.md.
 
-[^lincoln2009]: Lincoln and Joyce (2009); see sources/reading-list.md.
+[^lincoln2009]: Lincoln and Joyce (2009); see reading-list.md.
 
-[^lanemartin2012]: Lane and Martin (2012); see sources/reading-list.md.
+[^lanemartin2012]: Lane and Martin (2012); see reading-list.md.
 
-[^buchner1897]: Buchner (1897); see sources/reading-list.md.
+[^buchner1897]: Buchner (1897); see reading-list.md.
 
-[^gerhart1962]: Gerhart and Pardee (1962); see sources/reading-list.md.
+[^gerhart1962]: Gerhart and Pardee (1962); see reading-list.md.
 
-[^tang1997]: Tang and Breaker (1997); see sources/reading-list.md.
+[^tang1997]: Tang and Breaker (1997); see reading-list.md.
