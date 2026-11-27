@@ -93,6 +93,8 @@ The following works provide points of comparison for productive organization, he
 - Anna Lopatina, Nitzan Tal, and Rotem Sorek, "Abortive infection: bacterial suicide as an antiviral immune strategy" (2020), Annual Review of Virology 7.
 - Rodrigo Galhardo, P. J. Hastings, and Susan Rosenberg, "Mutation as a stress response and the regulation of evolvability" (2007), Critical Reviews in Biochemistry and Molecular Biology 42.
 - Eva Jablonka and Gal Raz, "Transgenerational epigenetic inheritance: prevalence, mechanisms, and implications for the study of heredity and evolution" (2009), Quarterly Review of Biology 84.
+- Richard Gomulkiewicz and Robert Holt, "When does evolution by natural selection prevent extinction?" (1995), Evolution 49: coins evolutionary rescue.
+- Dragan Stajic, Lília Perfeito, and Lars Jansen, "Epigenetic gene silencing alters the mechanisms and rate of evolutionary adaptation" (2019), Nature Ecology and Evolution 3: heritable epigenetic states letting yeast populations persist under a toxin until genetic adaptation follows.
 - Robert Boyd and Peter Richerson, *Culture and the Evolutionary Process* (1985): culture as a second inheritance system (dual inheritance theory).
 - Jiali Li, Shawn Browning, Sukhvir Mahal, Anja Oelschlegel, and Charles Weissmann, "Darwinian evolution of prions in cell culture" (2010), Science 327: prion strains propagated and selected without regeneration.
 - John Drake, "A constant rate of spontaneous mutation in DNA-based microbes" (1991), PNAS 88: mutations per genome roughly constant as genome size varies.

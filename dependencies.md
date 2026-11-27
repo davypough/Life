@@ -45,22 +45,22 @@ Each base capability defines one level of continuation (see Basis, *Three levels
 ## What this view leaves out, and why
 
 - **Elaborations.** Elaborations of regeneration, of reproduction (partitioning, dispersal), and of heredity (error correction, recombination) build on a base capability rather than being prerequisites of it, so they belong in the environment view.
-- **Individuation.** Reproduction needs new systems separated from their parent, but not systems that produce their own boundary. Separation is drawn by production relations (Glossary, *System*), and the environment can meet it, as when slow diffusion between mineral pores separates networks or a reaction-diffusion spot splits (see the environment view, *Reproduction*, and Base Capabilities, *Reproduction*). Individuation is therefore one way of meeting this support condition, not a prerequisite of reproduction.
-- **Growth.** Reproduction needs production exceeding losses on average across generations, not at each reproduction event, and growth is regeneration producing beyond replacement rather than a base capability. It is a support condition (see the environment view, *Reproduction*, and Base Capabilities, *Reproduction*).
-- **Recombination.** It depends on heredity, while heredity occurs without it, so it is an elaboration of heredity rather than a base capability (see Elaborations, *Recombination*).
+- **Individuation.** Reproduction needs new systems separated from their parent, but not systems that produce their own boundary. Separation is drawn by production relations (Glossary, *System*), and the environment can meet it, as when slow diffusion between mineral pores separates networks or a reaction-diffusion spot splits (see the environment view, *Reproduction*, and Base Capabilities, *Reproduction*). Individuation is therefore one way of meeting this continuation condition, not a prerequisite of reproduction.
+- **Growth.** Reproduction needs production exceeding losses on average across generations, not at each reproduction event, and growth is regeneration producing beyond replacement rather than a base capability. It is a continuation condition (see the environment view, *Reproduction*, and Base Capabilities, *Reproduction*).
+- **Recombination.** It depends on heredity, while heredity occurs without it, so it is an elaboration of heredity rather than a base capability (see Lineage Elaborations, *Recombination*).
 - **Unlimited heredity.** This is a specialization of heredity, not a separate elaboration that depends on it.
-- **Open-ended evolution.** An outcome, not a base capability or elaboration (see Basis, *Three levels of continuation for living systems*). Its conditions are stated as necessary for or net beneficial to it, not as dependencies (Method, *Dependency criterion*; Elaborations, *Extended endpoint: open-ended evolution*).
+- **Open-ended evolution.** An outcome, not a base capability or elaboration (see Basis, *Three levels of continuation for living systems*). Its conditions are stated as necessary for or net beneficial to it, not as dependencies (Method, *Dependency criterion*; Open-Ended Evolution).
 - **Further levels.** Collective organisms belong to this chain applied to a collective's organization, a community of lineages adds no continuant beyond a thin living system, and culture and directed variation are a means of inheritance, the evolvability of components, or existing elaborations, so none adds a base capability (Basis, *Levels and organizations*).
 
 ## What the view claims and does not claim
 
 - It constrains order without determining history: in any lineage, heredity cannot appear before reproduction, nor reproduction before regeneration, although they may appear together, as in Gánti's chemoton, a model cell with a self-sustaining cycle, a dividing membrane, and a copied template.[^ganti2003]
-- Dependencies run in one direction only. Being alive depends only on regeneration; reproduction and heredity are further base capabilities, not conditions imposed on every living individual.
+- Dependencies run in one direction only. Being alive depends only on regeneration; reproduction and heredity are further base capabilities, not conditions imposed on every living individual. Necessity relative to an environment can run the other way without reversing them: where conditions change faster than dispersal, dormancy, and bet-hedging can make good, a lineage continues only through heredity, by evolutionary rescue (environment view, *Reproduction*, *Evolutionary rescue*), yet reproduction still occurs without heredity, so it does not depend on it (Method, *Range*).
 - It says nothing about which elaborations a system has, or in what order they arise. That depends on the environment and belongs to other views.
 
 ## Open questions
 
-None at present. What open-ended evolution needs, and how the conditions of an outcome are represented, are in Elaborations, *Extended endpoint: open-ended evolution*, and Method, *Dependency criterion*.
+None at present. What open-ended evolution needs, and how the conditions of an outcome are represented, are in Open-Ended Evolution and in Method, *Dependency criterion*.
 
 The sufficiency of organizational regeneration as a criterion for life is in Basis, *Sufficiency of the criterion*; how sharply systems must be separated is set out in the Glossary, *Organizational separation*.
 

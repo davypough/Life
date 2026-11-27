@@ -13,9 +13,10 @@ Begin with **overview.md** for a short summary of the study and its main proposa
 1. **basis.md**: the continuation principle, regeneration as the proposed criterion for life, and the three levels of continuation.
 2. **method.md**: the approach, environmental assumptions, and how the proposals are tested.
 3. **dependencies.md**, **environment.md**, and **realization.md**: three views of how capabilities depend on one another, what they need from their surroundings, and the mechanisms that provide them.
-4. **capabilities.md** and **elaborations.md**: reference accounts of each base capability and each elaboration.
-5. **lifes-future.md**: a speculative companion applying the framework to the future of life.
-6. **luca.md**: a supplement relating the study to current research on the last universal common ancestor (LUCA).
+4. **capabilities.md**, **elaborations-living.md**, and **elaborations-lineage.md**: reference accounts of each base capability and each elaboration.
+5. **open-ended-evolution.md**: the conditions of open-ended evolution, a possible extended endpoint of the analysis.
+6. **lifes-future.md**: a speculative companion applying the framework to the future of life.
+7. **luca.md**: a supplement relating the study to current research on the last universal common ancestor (LUCA).
 
 **glossary.md** holds all definitions, and **reading-list.md** lists the sources.
 
