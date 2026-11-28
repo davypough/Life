@@ -37,7 +37,9 @@ CRISPR immunity is not a further elaboration in the study but a combination: env
 
 ## What lies below LUCA
 
-Gene comparison reaches back only to LUCA: whatever preceded it left descendants that are either extinct or merged into its own genes. The stretch between geochemistry and LUCA is invisible to phylogenetics, and it is where the study's minimal realizations sit: regeneration in a single mineral pore, reproduction in a pore field, and heredity by composition, each with the environment meeting every other continuation condition (Method, *Stating environmental assumptions*). The study does not claim that this was the historical route; its order reflects dependencies, not history (Method, *Dependency criterion*). What it supplies is a map of what each step needs and what the surroundings could have met, for a period from which no genes survive. If LUCA lived 4.2 billion years ago with some 2,600 genes, most of the climb from the starting environments to an evolving lineage with most elaborations took place before it, in a few hundred million years or less.
+Gene comparison reaches back only to LUCA: whatever preceded it left descendants that are either extinct or merged into its own genes. The stretch between geochemistry and LUCA is invisible to phylogenetics, and it is where the study's minimal realizations sit: regeneration in a single mineral pore, reproduction in a pore field, and heredity by composition, each with the environment meeting every other continuation condition (Method, *Stating environmental assumptions*). The study does not claim that this was the historical route; its order reflects dependencies, not history (Method, *Dependency criterion*). What it supplies is a map of what each step needs and what the surroundings could have met, for a period from which no genes survive. If LUCA lived 4.2 billion years ago with some 2,600 genes, most of the change from the starting environments to an evolving lineage with most elaborations took place before it, in a few hundred million years or less.
+
+Experiments on reactions without enzymes suggest how this stretch may have begun. Reactions resembling core metabolism run without enzymes where metals catalyze them: ferrous iron promotes a network that builds up most intermediates of the Krebs cycle and breaks them down to carbon dioxide,[^muchowska2019] and water modeled on the Archean ocean, rich in iron, catalyzes interconversions resembling glycolysis and the pentose phosphate pathway.[^keller2014] Sterilized soil still runs such reactions today (Basis, *Sufficiency of the criterion*). On this evidence, some researchers propose that core metabolism began as chemistry of the surroundings, before the enzymes and genes that now carry it. In the study's terms, such chemistry is not regeneration, however much it resembles metabolism: its catalysts are supplied by the surroundings, so its reactions are renewed by supply. Regeneration begins only where a network produces catalysts that drive the production of its own means. The proposed order, metabolism before genes, matches the study's dependency chain, in which regeneration comes before heredity. But the study's order reflects dependencies, not history (Method, *Dependency criterion*), so it is consistent with this proposal without supporting it as history.
 
 ## Debates the framework speaks to
 
@@ -71,7 +73,7 @@ Life's Future proposes that novelty is mostly new mechanisms, specialized applic
 
 ## What the comparison cannot show
 
-LUCA research shows what one lineage had; the study asks what any system at a level must have. That LUCA had a feature does not show that the feature is needed, and features shared by every descendant are co-occurrence, which never establishes a dependency (Method, *Testing relations against cases*). Developed systems look as if their elaborations depend on one another because they share mechanisms such as the membrane and ATP (realization view, *Observations*). The main risk in comparing the two is reading LUCA's toolkit as a list of requirements for life. The study's separation of base capabilities, elaborations, and mechanisms is what blocks that reading.
+LUCA research shows what one lineage had; the study asks what any system at a level must have. That LUCA had a feature does not show that the feature is needed, and features shared by every descendant are co-occurrence, which never establishes a dependency (Method, *Testing relations against cases*). Developed systems look as if their elaborations depend on one another because they share mechanisms such as the membrane and ATP (realization view, *Observations*). The main risk in comparing the two is reading LUCA's mechanisms as a list of requirements for life. The study's separation of base capabilities, elaborations, and mechanisms is what blocks that reading.
 
 Conversely, the study cannot date or order LUCA's features. Its dependencies constrain possible sequences without establishing an actual one (Method, *Dependency criterion*): heredity cannot precede reproduction, but whether LUCA's ancestors gained a membrane before or after template copying is a historical question the study leaves open.
 
@@ -95,3 +97,7 @@ Conversely, the study cannot date or order LUCA's features. Its dependencies con
 [^woese1998]: Woese (1998); see reading-list.md.
 
 [^woese2002]: Woese (2002); see reading-list.md.
+
+[^muchowska2019]: Muchowska, Varma, and Moran (2019); see reading-list.md.
+
+[^keller2014]: Keller, Turchyn, and Ralser (2014); see reading-list.md.

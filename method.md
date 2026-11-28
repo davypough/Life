@@ -106,7 +106,16 @@ The candidates assessed so far and their results are in Lineage Elaborations, *C
 - **Environmental dependencies and limits:** which conditions the environment meets, what limitation the base capability or elaboration addresses, and, for an elaboration, where it is necessary for continuation, where it is a net cost, and where it ceases to suffice.
 - **Prerequisites:** the base capabilities and elaborations it depends on, the grounds for each dependency, and unresolved questions.
 
-An account is complete when, read with the views, each section does what is listed above: the contribution names the entry it takes over in the environment view (*Identifying and naming base capabilities and elaborations*, grain); the minimal realization departs from the starting environment in one continuation condition, stating the environment's shortfall there and how the environment meets the elaboration's own continuation conditions (*Stating environmental assumptions*); a developed example is given; *Environmental dependencies and limits* states where the elaboration is necessary for continuation, where it is a net cost, and where it ceases to suffice, relative to the system's own rates or as thresholds of timing; Prerequisites state that it elaborates its base capability, each conditional relation with what can meet it, and each pair with another elaboration of the same base capability as related or unordered, in one of the two accounts; and the environment view has an entry for it, and the realization view a row in each example system that can provide it. For a base capability, its continuation conditions take the place of thresholds (*Stating environmental assumptions*, base capabilities). Accounts carry no status label; all are conjectural, as the hierarchy is (*Scope and limitations*).
+An account is complete when, read with the views, each section does what is listed above:
+
+- **Contribution:** it names the entry the elaboration takes over in the environment view (*Identifying and naming base capabilities and elaborations*, grain).
+- **Minimal realization:** it departs from the starting environment in one continuation condition, stating the environment's shortfall there and how the environment meets the elaboration's own continuation conditions (*Stating environmental assumptions*).
+- **Developed example:** one is given.
+- **Environmental dependencies and limits:** it states where the elaboration is necessary for continuation, where it is a net cost, and where it ceases to suffice, relative to the system's own rates or as thresholds of timing.
+- **Prerequisites:** they state that the elaboration elaborates its base capability, each conditional relation with what can meet it, and each pair with another elaboration of the same base capability as related or unordered, in one of the two accounts.
+- **Views:** the environment view has an entry for the elaboration, and the realization view a row in each example system that can provide it.
+
+For a base capability, its continuation conditions take the place of thresholds (*Stating environmental assumptions*, base capabilities). Accounts carry no status label; all are conjectural, as the hierarchy is (*Scope and limitations*).
 
 ## Checks against biology
 

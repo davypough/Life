@@ -102,6 +102,7 @@ The following works provide points of comparison for productive organization, he
 - James Pelletier et al., "Genetic requirements for cell division in a genomically minimal cell" (2021), Cell 184: JCVI-syn3.0 dividing irregularly, regular division restored by seven genes.
 - William Whitman, David Coleman, and William Wiebe, "Prokaryotes: the unseen majority" (1998), PNAS 95: roughly 10^30 prokaryotes on Earth.
 - Eduard Buchner, "Alkoholische Gährung ohne Hefezellen" (1897), Berichte der Deutschen Chemischen Gesellschaft 30: fermentation by cell-free yeast extract.
+- Clémentin Bouquet, Benoit Kéraval, et al., "Nonliving respiration: Another breath in the soil?" (2025), Science Advances 11: organic compounds respired to carbon dioxide outside cells in sterilized soil, driven by soil catalysts, some stable for more than six years.
 - John Gerhart and Arthur Pardee, "The enzymology of control by feedback inhibition" (1962), Journal of Biological Chemistry 237: feedback inhibition of a purified enzyme.
 - Jin Tang and Ronald Breaker, "Rational design of allosteric ribozymes" (1997), Chemistry & Biology 4: RNA enzymes switched by a bound ligand.
 - Gerald Joyce, foreword to David Deamer and Gail Fleischaker (eds.), *Origins of Life: The Central Concepts* (1994), Jones and Bartlett: the NASA working definition of life, "a self-sustaining chemical system capable of Darwinian evolution".
@@ -116,3 +117,5 @@ The following works provide points of comparison for productive organization, he
 - Detlef Leipe, L. Aravind, and Eugene Koonin, "Did DNA replication evolve twice independently?" (1999), Nucleic Acids Research 27.
 - Bastien Boussau, Samuel Blanquart, Anamaria Necsulea, Nicolas Lartillot, and Manolo Gouy, "Parallel adaptations to high temperatures in the Archaean eon" (2008), Nature 456: a mesophilic LUCA.
 - Carl Woese, "The universal ancestor" (1998), PNAS 95: the universal ancestor as a community of cells exchanging genes.
+- Kamila Muchowska, Sreejith Varma, and Joseph Moran, "Synthesis and breakdown of universal metabolic precursors promoted by iron" (2019), Nature 569: a network promoted by ferrous iron that builds up most Krebs-cycle intermediates and breaks them down to carbon dioxide.
+- Markus Keller, Alexandra Turchyn, and Markus Ralser, "Non-enzymatic glycolysis and pentose phosphate pathway-like reactions in a plausible Archean ocean" (2014), Molecular Systems Biology 10: interconversions resembling glycolysis and the pentose phosphate pathway, catalyzed by water modeled on the Archean ocean.
